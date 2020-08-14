@@ -25,7 +25,7 @@ SECRET_KEY = 'fhs+ucmv4!g6^l^amix9%j7k!z8+f@=piusb%=s%d%gth5d(pi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ayushagrawal.pythonanywhere.com]
 
 
 # Application definition
